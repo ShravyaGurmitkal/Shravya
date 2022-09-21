@@ -6,7 +6,8 @@ I'm a person who loves problem solving and thinks to write good and efficient co
 
 I have completed my graduation in computer science stream and has worked for 2 years as EDI Developer in **[Infosys](https://www.infosys.com/)** India. Also trained on different technologies like Python, SQL, Java. Now I want to change my carrer as a full stack developer, so I have joined **[Hack Your Future](https://www.hackyourfuture.dk/)** bootcamp after coming to Denmark where I have learnt frontend development.
 
- <h3>Current Details</h3>
+
+ ## Current Details
  
 - 🔭 I’m currently student developer at HackyourFuture
 - 🌱 I’m currently learning ReactJs(Frontend library)
@@ -15,3 +16,18 @@ I have completed my graduation in computer science stream and has worked for 2 y
 - 👨‍💻 All my projects are available at **[My Portfolio](https://github.com/ShravyaGurmitkal)**
 - 📧 Reach me@: shravyagrk@gmail.com
 - 😄 Pronouns: She/Her
+
+
+## Languages & Tools
+<p align="left">
+ <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+ <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+ <a style="padding-right:10px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+ <a style="padding-right:10px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+ <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+ <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-64/python-1-226045.png"/> </a>
+ <a style="padding-right:10px;" href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-64/visual-studio-code-3251603-2724650.png"> </a>
+ <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>  
+ <a href="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
+ </p>
