@@ -10,7 +10,7 @@ I have completed my graduation in computer science stream and has worked for 2 y
  ## 📌 Current Details
  
 - 🔭 I’m currently student developer at HackyourFuture
-- 🌱 I’m currently learning ReactJs(Frontend library)
+- 🌱 I’m currently learning ReactJs, NodeJs, ExpressJs,KnexJs
 - 🖥 Intrested to work as a Full Stack Developer
 - 👯 I’m looking to collaborate with a company or organization where I can use my skills which helps in the comapny's growth and advances my carrer
 - 👨‍💻 All my projects are available at **[My Portfolio](https://github.com/ShravyaGurmitkal)**
