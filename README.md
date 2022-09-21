@@ -7,7 +7,7 @@ I'm a person who loves problem solving and thinks to write good and efficient co
 I have completed my graduation in computer science stream and has worked for 2 years as EDI Developer in **[Infosys](https://www.infosys.com/)** India. Also trained on different technologies like Python, SQL, Java. Now I want to change my carrer as a full stack developer, so I have joined **[Hack Your Future](https://www.hackyourfuture.dk/)** bootcamp after coming to Denmark where I have learnt frontend development.
 
 
- ## Current Details
+ ## 📌 Current Details
  
 - 🔭 I’m currently student developer at HackyourFuture
 - 🌱 I’m currently learning ReactJs(Frontend library)
@@ -18,7 +18,7 @@ I have completed my graduation in computer science stream and has worked for 2 y
 - 😄 Pronouns: She/Her
 
 
-## Languages & Tools
+## 🖥 Languages & Tools
 <p align="left">
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
@@ -31,3 +31,11 @@ I have completed my graduation in computer science stream and has worked for 2 y
  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>  
  <a href="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
  </p>
+
+## 🤝 Wanna Connect with Me
+<a href = "https://www.linkedin.com/in/shravyagurmitkal/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
+## 📈 Stats
+![Shravya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shravyagurmitkal&show_icons=true&theme=radical)
+
+<a href="https://github.com/ShravyaGurmitkal/github-readme-stats"><img alt="Shravya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShravyaGurmitkal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1118" /></a>
